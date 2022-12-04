@@ -1,6 +1,8 @@
-#Readme file Generator!
-##Features
+# Readme file Generator!
+
+## Features
 Generate a professional quality readme.md file with just a few inputs.
+
 ## User Story
 
 ```md
